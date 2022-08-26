@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Cat Tax",
+        "date": "2022-06-11",
+        "content": ["Here are some pictures of our (relatively) new cat Ezri.",
+            "<img src='assets/cat/1.jpg' title='Why do I put up with these people?'>",
+            "<img src='assets/cat/2.jpg' title='Liam has very tasty hair, especially after he showers'>",
+            "<img src='assets/cat/3.heic' title='hi.'>",
+            "<img src='assets/cat/4.heic'>",
+            "<img src='assets/cat/5.jpg' title='Why are they called catnaps anyway?'>",
+            "<img src='assets/cat/6.jpg' title='shit...'>",
+            "<img src='assets/cat/7.jpg'>",
+            "<img src='assets/cat/8.jpg'>",
+            "<img src='assets/cat/9.jpg'>"]
+    }
+]

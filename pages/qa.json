@@ -2,17 +2,18 @@
     {
         "title": "Where is everything?",
         "date": "2022-05-31",
-        "content": ["We just got engaged, chill."]
+        "content": ["We've got a year, chill."]
     },
     {
         "title": "When are you getting married?",
-        "date": "2022-05-31",
-        "content": ["Idk sometime in 2023."]
+        "date": "2022-09-16",
+        "content": ["3 PM on October 7th 2023."]
     },
     {
         "title": "Where are you getting married?",
-        "date": "2022-05-31",
-        "content": ["Likely somewhere in the Chicago area."]
+        "date": "2022-09-16",
+        "content": ["We're getting married at <a href='https://goo.gl/maps/uvKEKhCZN9raQKFm7'>Our Lady of the Wayside</a> in Arlington Heights, IL.",
+                    "Our reception will be at the <a href='https://goo.gl/maps/rLoxcPMHhzT6bJz66'>Chicago Marriott Schaumburg</a> in Schaumburg, IL."]
     },
     {
         "title": "Am I invited?",

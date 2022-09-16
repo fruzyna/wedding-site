@@ -1,7 +1,18 @@
 [
     {
-        "title": "Travel",
-        "date": "2022-05-31",
-        "content": ["It will probably be in Chicagoland, but stay tuned."]
+        "title": "Hotels",
+        "date": "2022-09-16",
+        "content": ["There will be a block of rooms reserved at the hotel, stay tuned for details."]
+    },
+    {
+        "title": "Flying",
+        "date": "2022-09-16",
+        "content": ["We recommend flying into Chicago O'Hare."]
+    },
+    {
+        "title": "Getting Around",
+        "date": "2022-09-16",
+        "content": ["We expect to have a shuttle between the church and hotel.",
+                    "There are several car rentals services available at the airport and nearby the hotel."]
     }
 ]

@@ -1,11 +1,13 @@
 [
     {
-        "title": "Details",
-        "date": "2022-05-31",
-        "content": ["Congrats you found this website before it was done!",
-            "Liam Michael Fruzyna and Ellen Marie Bakke are engaged!",
-            "We're still in the early stages of planning so stay tuned for more details.",
-            "See you in 2023!"
-        ]
+        "title": "Church",
+        "date": "2022-09-16",
+        "content": ["The ceremony will be at <a href='https://goo.gl/maps/uvKEKhCZN9raQKFm7'>Our Lady of the Wayside</a> in Arlington Heights, IL.",
+                    "It should start at 3 PM on Saturday, October 7th 2023"]
+    },
+    {
+        "title": "Reception",
+        "date": "2022-09-16",
+        "content": ["Our reception will be at the <a href='https://goo.gl/maps/rLoxcPMHhzT6bJz66'>Chicago Marriott Schaumburg</a> in Schaumburg, IL."]
     }
 ]

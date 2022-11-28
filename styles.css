@@ -11,7 +11,8 @@ html, body {
 	height: 100%;
 	display: table;
 	background-color: grey;
-	background-image: url("assets/arch.jpg");
+	background-image: linear-gradient(0deg, #2C3E50 0%, rgba(255,255,255,0) 50%),
+					  url("assets/disney.jpg");
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -19,10 +20,33 @@ html, body {
 
 #left-content {
 	display: table-cell;
-	vertical-align: middle;
+	vertical-align: bottom;
 	color: white;
 	font-size: 1.5rem;
 	text-align: center;
+	padding-bottom: 5%;
+}
+
+#left-content h1, h3, h4 {
+	margin: 0;
+}
+
+#scroll {
+	font-size: 1.25rem;
+}
+
+#left-content h3, #left-content h4 {
+	margin: 10px;
+}
+
+.blink {
+	animation: blinker 2s linear infinite;
+}
+
+@keyframes blinker {
+	50% {
+		opacity: 0;
+	}
 }
 
 #right {

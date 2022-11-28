@@ -1,10 +1,5 @@
 [
     {
-        "title": "Where is everything?",
-        "date": "2022-05-31",
-        "content": ["We've got a year, chill."]
-    },
-    {
         "title": "When are you getting married?",
         "date": "2022-09-16",
         "content": ["3 PM on October 7th 2023."]
@@ -18,6 +13,15 @@
     {
         "title": "Am I invited?",
         "date": "2022-05-31",
-        "content": ["Probably not, we are only expecting to invite roughly 0.00000125% of the world population."]
+        "content": ["Probably not, we are only expecting to invite roughly 0.00000125% of the world population.",
+                    "We will be sending out our first round of save-the-dates this December."]
+    },
+    {
+        "title": "Who is in the wedding party?",
+        "date": "2022-11-28",
+        "content": ["Our siblings will be making up the wedding party.",
+                    "Liam's groomsmen will be his brothers Aidan and Declan and Ellen's brother David.",
+                    "Ellen's bridesmaids will be her sisters Lauren and Olivia and Liam's sister Erin.",
+                    "The oldests Aidan and Lauren will be the best man and maid of honor."]
     }
 ]

@@ -5,6 +5,7 @@
 		<title>Fruzyna-Bakke Wedding</title>
 		<meta name="theme-color" content="#662E6C">
 		<link rel="stylesheet" type="text/css" href="styles.css">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 		<script>
 			function getQueryVariable(variable) {
 				var query = window.location.search.substring(1)
@@ -37,10 +38,10 @@
 								if (post.content_src) {
 									const reponse = await fetch(post.content_src)
 									const text = await reponse.text()
-									posts_html += `<div class="card"><h1><a class="card_title" href="?page=${page}&date=${post.date}&title=${post.title}">${post.title}</a></h1><p><i><a class="card_title" href="?page=${page}&date=${post.date}">Posted on: ${post.date}</a>${link}</i></p><p id="${post.content_src}">${text}</p></div>`
+									posts_html += `<div class="card"><h1><a class="card_title" href="?page=${page}&date=${post.date}&title=${post.title}">${post.title}</a></h1><p><i>${link}</i></p><p id="${post.content_src}">${text}</p></div>`
 								}
 								else {
-									posts_html += `<div class="card"><h1><a class="card_title" href="?page=${page}&date=${post.date}&title=${post.title}">${post.title}</a></h1><p><i><a class="card_title" href="?page=${page}&date=${post.date}">Posted on: ${post.date}</a>${link}</i></p><p>${post.content.join('\n')}</p></div>`
+									posts_html += `<div class="card"><h1><a class="card_title" href="?page=${page}&date=${post.date}&title=${post.title}">${post.title}</a></h1><p><i>${link}</i></p><p>${post.content.join('\n')}</p></div>`
 								}
 								++posts
 							}
@@ -130,7 +131,6 @@
 			<span class="link"><a href="?page=qa#right-content">Q & A</a></span>
 			<span class="link"><a href="?page=travel#right-content">Travel</a></span>
 			<span class="link"><a href="?page=registry#right-content">Registry</a></span>
-			<span class="link"><a href="?page=details#right-content">Details</a></span>
 			<span class="link"><a href="?page=cat#right-content">Cat Tax</a></span>
 	    </div>
 	    <div id="right-content"></div>

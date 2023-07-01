@@ -57,7 +57,6 @@ html, body {
 #right-top {
 	width: 100%;
 	padding-top: 8px;
-	padding-bottom: 8px;
 	background-color: #2C3E50;
 	text-align: center;
 	top: 0;
@@ -69,6 +68,7 @@ html, body {
 	vertical-align: middle;
 	background-color: #34495E;
 	border-radius: 8px;
+	margin-bottom: 8px;
 }
 
 .link:hover {
@@ -103,11 +103,12 @@ html, body {
 
 .card {
 	margin: auto;
-	padding: 8px;
+	padding: 16px;
 	background-color: #ABB2B9;
-	border-radius: 4px;
+	border-radius: 8px;
 	margin-top: 8px;
-	max-width: 960px;
+	max-width: 720px;
+	line-height: 1.33;
 }
 
 .card_title {
@@ -134,4 +135,8 @@ html, body {
 .subtle_link {
 	color: white;
 	text-decoration: none;
+}
+
+.highlight {
+	background-color: #5C2C35;
 }

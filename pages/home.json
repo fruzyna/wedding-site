@@ -1,10 +1,19 @@
 [
     {
-        "title": "Welcome!",
-        "date": "2022-09-16",
-        "content": ["Liam Michael Fruzyna and Ellen Marie Bakke are getting married!",
-            "We can't wait to see you on October 7th 2023 in the Northwest suburbs of Chicago!",
-            "We're still in the early stages of planning so stay tuned for more details."
-        ]
+        "title": "Ceremony",
+        "date": "2023-06-30",
+        "content": ["<center><b>3:00 PM - 4:00 PM</b><br>",
+                    "Our Lady of the Wayside Parish<br>",
+                    "434 W Park Street, Arlington Heights, IL<br>",
+                    "<a href='https://goo.gl/maps/uvKEKhCZN9raQKFm7'>Google Maps</a><br>",
+                    "Attire: Semi-formal</center>"]
+    },
+    {
+        "title": "Cocktail Hour & Reception",
+        "date": "2023-06-30",
+        "content": ["<center><b>5:00 PM - 12:00 AM</b><br>",
+                    "Chicago Marriott Schaumburg<br>",
+                    "50 N Martingale Rd, Schaumburg, IL<br>",
+                    "<a href='https://goo.gl/maps/uSDoKnLBbFMsDA778'>Google Maps</a><br>"]
     }
 ]

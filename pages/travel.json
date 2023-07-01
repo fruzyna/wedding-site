@@ -3,7 +3,7 @@
         "title": "Hotels",
         "date": "2023-05-23",
         "content": ["We have a hotel block at the same venue as our reception, the Chicago Marriot Schaumburg.",
-                    "You can book a room in our block <a href=\"https://www.marriott.com/events/start.mi?id=1684704442430&key=GRP\">using this link</a>.",
+                    "You can book a room in the block <a href=\"https://www.marriott.com/events/start.mi?id=1684704442430&key=GRP\">using this link</a>.",
                     "Rooms are $119/night and you can book anytime between now and Monday, September 18th.",
                     "If you trouble with availability of rooms, reach out and we can get the hotel to add more rooms to the block."]
     },
@@ -14,9 +14,19 @@
                     "The hotel does not have an airport shuttle, but it is only a 20 minute ride from O'Hare."]
     },
     {
-        "title": "Getting Around",
-        "date": "2022-09-16",
-        "content": ["We expect to have a shuttle between the church and hotel.",
+        "title": "Getting to the Ceremony",
+        "date": "2023-06-30",
+        "content": ["We have booked a shuttle bus for between the church and hotel.",
+                    "There will be two trips before and after the ceremony.",
+                    "The bus should leave the hotel just after 2 PM for members of the wedding party and it should return for the second trip around 2:30.",
+                    "To return to the hotel, the bus will leave a few minutes after the ceremony end and once again around 4:45 PM for those who would like to stay for pictures.",
                     "There are several car rentals services available at the airport and nearby the hotel."]
+    },
+    {
+        "title": "Getting Around Town",
+        "date": "2023-06-30",
+        "content": ["There are several car rentals services available at the airport and nearby the hotel.",
+                    "If you would like to go into the city while you are visiting we recommend taking <a href=\"https://metra.com\">Metra</a>, as there is siginificant construction on the Kennedy Expressway right now.",
+                    "The Arlington Park and Itasca stations are both roughtly 10 minutes from the hotel."]
     }
 ]

@@ -1,26 +1,22 @@
 [
     {
-        "title": "When are you getting married?",
-        "date": "2022-09-16",
-        "content": ["3 PM on October 7th 2023."]
-    },
-    {
-        "title": "Where are you getting married?",
-        "date": "2022-09-16",
-        "content": ["We're getting married at <a href='https://goo.gl/maps/uvKEKhCZN9raQKFm7'>Our Lady of the Wayside</a> in Arlington Heights, IL.",
-                    "Our reception will be at the <a href='https://goo.gl/maps/rLoxcPMHhzT6bJz66'>Chicago Marriott Schaumburg</a> in Schaumburg, IL."]
-    },
-    {
-        "title": "Am I invited?",
-        "date": "2022-05-31",
-        "content": ["Probably not, we are only expecting to invite roughly 0.00000125% of the world population."]
-    },
-    {
         "title": "Who is in the wedding party?",
         "date": "2022-11-28",
         "content": ["Our siblings will be making up the wedding party.",
                     "Liam's groomsmen will be his brothers Aidan and Declan and Ellen's brother David.",
                     "Ellen's bridesmaids will be her sisters Lauren and Olivia and Liam's sister Erin.",
                     "The oldests Aidan and Lauren will be the best man and maid of honor."]
+    },
+    {
+        "title": "What will be served at the reception?",
+        "date": "2023-06-30",
+        "content": ["The main course will be a Chicken and Steak Duet.",
+                    "There will also vegan and vegetarian options.",
+                    "If you have allergies or other dietary restrictions please make sure to note them on your RSVP."]
+    },
+    {
+        "title": "Will there be an open bar?",
+        "date": "2023-06-30",
+        "content": ["Of course!"]
     }
 ]

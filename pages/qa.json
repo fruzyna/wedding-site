@@ -15,6 +15,13 @@
                     "If you have allergies or other dietary restrictions please make sure to note them on your RSVP."]
     },
     {
+        "title": "What should I wear?",
+        "date": "2023-07-03",
+        "content": ["The official dress code is semi-formal, but don't stress too much about it.",
+                    "The bridal party will be wearing <a onclick=\"document.getElementById('cabernet').style.display = 'block'\" href=\"javascript:void(0);\">cabernet</a>.",
+                    "<div id=\"cabernet\" style=\"background-color: #5C2C35; width: 200px; height: 200px; display: none\"></div>"]
+    },
+    {
         "title": "Will there be an open bar?",
         "date": "2023-06-30",
         "content": ["Of course!"]
